@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Flames-WebApp-by-AKIL/static/css/main.af6d835d.css",
-    "main.js": "/Flames-WebApp-by-AKIL/static/js/main.2f8a09ba.js",
+    "main.js": "/Flames-WebApp-by-AKIL/static/js/main.4c05ca1e.js",
     "static/js/453.00c728cf.chunk.js": "/Flames-WebApp-by-AKIL/static/js/453.00c728cf.chunk.js",
     "static/media/Love.png": "/Flames-WebApp-by-AKIL/static/media/Love.7ab8da95f4397818e9fc.png",
     "static/media/Marriage.png": "/Flames-WebApp-by-AKIL/static/media/Marriage.04a7729a9b6b448ae14e.png",
@@ -13,11 +13,11 @@
     "static/media/Navimg.png": "/Flames-WebApp-by-AKIL/static/media/Navimg.11bc86f49e734a4b9563.png",
     "index.html": "/Flames-WebApp-by-AKIL/index.html",
     "main.af6d835d.css.map": "/Flames-WebApp-by-AKIL/static/css/main.af6d835d.css.map",
-    "main.2f8a09ba.js.map": "/Flames-WebApp-by-AKIL/static/js/main.2f8a09ba.js.map",
+    "main.4c05ca1e.js.map": "/Flames-WebApp-by-AKIL/static/js/main.4c05ca1e.js.map",
     "453.00c728cf.chunk.js.map": "/Flames-WebApp-by-AKIL/static/js/453.00c728cf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.af6d835d.css",
-    "static/js/main.2f8a09ba.js"
+    "static/js/main.4c05ca1e.js"
   ]
 }
